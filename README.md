@@ -10,4 +10,4 @@ React-native-dnd make drag and drop be easier in react
 
 
 ## Future Features
--Add drop into list
+- Add drop into list
